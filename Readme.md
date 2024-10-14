@@ -10,6 +10,9 @@ Turkey is a country known for its rich culture and history. It is known for its 
 
 Turkey is a place where both Eastern and Western cultures come together.
 
+
+## About Repository
+
 In this area you will see my projects that I have prepared in Visual Studio Code.
 
 I hope you like it.
